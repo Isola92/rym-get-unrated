@@ -1,0 +1,11 @@
+{
+  "name": "rym-get-unrated",
+  "version": "1.0.0",
+  "description": "Fetch albums from last.fm and see if you've rated them on rateyourmusic",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {},
+  "author": "Olof Lindell",
+  "license": "ISC"
+}
